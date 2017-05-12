@@ -2,6 +2,11 @@
 
 Following along with WatchAndCode.com's exercises.
 
+### Version 4 TODO:
+- [] todoList.addTodo should add objects
+- [] todoList.changeTodo should change the todoText property
+- [] todoList.toggleCompleted should change the completed property
+
 ### Version 3 TODO:
 - [x] It should store the todos array on an object
 - [x] It should have a displayTodos method

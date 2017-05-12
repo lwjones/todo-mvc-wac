@@ -2,6 +2,13 @@
 
 Following along with WatchAndCode.com's exercises.
 
+### Version 3 TODO:
+- [x] It should store the todos array on an object
+- [x] It should have a displayTodos method
+- [x] It should have a addTodos method
+- [x] It should have a changeTodo method
+- [x] It should have a deleteTodo method
+
 ### Version 2 TODO:
 - [x] It should have a function to display todos.
 - [x] It should have a function to add todos.

@@ -3,7 +3,7 @@ var todoList = {
   displayTodos: function(){
     console.log(this.todos);
   },
-  addTodos: function(todo){
+  addTodo: function(todo){
     this.todos.push(todo);
     this.displayTodos();
   }

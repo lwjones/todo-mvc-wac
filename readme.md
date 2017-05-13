@@ -2,6 +2,11 @@
 
 Following along with WatchAndCode.com's exercises.
 
+### Version 5 TODO:
+- [x] .displayTodos should show .todoText
+- [x] .displayTodos should tell you if .todos is empty
+- [x] .displayTodos should show .completed
+
 ### Version 4 TODO:
 - [x] todoList.addTodo should add objects
 - [x] todoList.changeTodo should change the todoText property

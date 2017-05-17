@@ -2,6 +2,10 @@
 
 Following along with WatchAndCode.com's exercises.
 
+### Version 6 TODO:
+- [x] .toggleAll if everything's true, make everything false
+- [x] .toggleAll otherwise to make everything true
+
 ### Version 5 TODO:
 - [x] .displayTodos should show .todoText
 - [x] .displayTodos should tell you if .todos is empty
